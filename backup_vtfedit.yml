@@ -1,0 +1,79 @@
+Arch: win64
+Creation_Date: '2022-10-12 17:39:04.970764'
+Custom_Path: false
+DLL_Overrides: {}
+DXVK: dxvk-1.10.3
+Environment: Application
+Environment_Variables: {}
+External_Programs:
+    1dcb8cba-b663-4eff-9bd1-003edbea0f7e:
+        executable: vtfedit_v133.exe
+        id: 1dcb8cba-b663-4eff-9bd1-003edbea0f7e
+        name: vtfedit_v133
+        path: /var/home/jofre/Descargas/vtfedit_v133.exe
+Installed_Dependencies:
+- arial32
+- times32
+- courie32
+- dotnet35
+- vcredist2005
+Language: sys
+LatencyFleX: latencyflex-v0.1.0
+Latest_Executables: []
+NVAPI: dxvk-nvapi-v0.5.4
+Name: vtfedit
+Parameters:
+    custom_dpi: 96
+    discrete_gpu: false
+    dxvk: true
+    dxvk_nvapi: false
+    fixme_logs: false
+    fsr: false
+    fsr_level: 5
+    fullscreen_capture: false
+    gamemode: false
+    gamescope: false
+    gamescope_borderless: false
+    gamescope_fps: 0
+    gamescope_fps_no_focus: 0
+    gamescope_fullscreen: true
+    gamescope_game_height: 0
+    gamescope_game_width: 0
+    gamescope_scaling: false
+    gamescope_window_height: 0
+    gamescope_window_width: 0
+    latencyflex: false
+    mangohud: false
+    mouse_warp: true
+    obsvkc: false
+    pulseaudio_latency: false
+    renderer: gl
+    sandbox: false
+    sync: wine
+    take_focus: false
+    use_be_runtime: true
+    use_eac_runtime: true
+    use_runtime: false
+    use_steam_runtime: false
+    versioning_automatic: false
+    versioning_compression: false
+    versioning_exclusion_patterns: false
+    virtual_desktop: false
+    virtual_desktop_res: 1280x720
+    vkbasalt: false
+    vkd3d: true
+    vmtouch: false
+    vmtouch_cache_cwd: false
+Path: vtfedit
+Runner: soda-7.0-3
+Sandbox:
+    share_net: true
+    share_sound: true
+State: 0
+Uninstallers: {}
+Update_Date: '2022-10-12 17:46:13.967230'
+VKD3D: vkd3d-proton-2.6-1-5b73139
+Versioning: false
+Versioning_Exclusion_Patterns: []
+Windows: win10
+WorkingDir: ''
