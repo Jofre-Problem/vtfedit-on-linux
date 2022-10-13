@@ -20,3 +20,4 @@ Nice!
 ## Misc 
 
 VTFEdit icon is created using an AI upscaled program.
+The winepredix will take like 1.2GB, due to DOTNET35SP1
